@@ -1,0 +1,326 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "Syncfusion.Licensing/19.1.0.66": {
+        "type": "package",
+        "compile": {
+          "lib/net46/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net46/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.SfChart.WPF/19.1.0.66": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Licensing": "19.1.0.66"
+        },
+        "compile": {
+          "lib/net46/Syncfusion.SfChart.WPF.dll": {}
+        },
+        "runtime": {
+          "lib/net46/Syncfusion.SfChart.WPF.dll": {}
+        }
+      },
+      "CamadaDados/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/CamadaDados.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CamadaDados.dll": {}
+        }
+      },
+      "CamadaNegocio/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "CamadaDados": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CamadaNegocio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CamadaNegocio.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win": {
+      "Syncfusion.Licensing/19.1.0.66": {
+        "type": "package",
+        "compile": {
+          "lib/net46/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net46/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.SfChart.WPF/19.1.0.66": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Licensing": "19.1.0.66"
+        },
+        "compile": {
+          "lib/net46/Syncfusion.SfChart.WPF.dll": {}
+        },
+        "runtime": {
+          "lib/net46/Syncfusion.SfChart.WPF.dll": {}
+        }
+      },
+      "CamadaDados/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/CamadaDados.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CamadaDados.dll": {}
+        }
+      },
+      "CamadaNegocio/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "CamadaDados": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CamadaNegocio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CamadaNegocio.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x64": {
+      "Syncfusion.Licensing/19.1.0.66": {
+        "type": "package",
+        "compile": {
+          "lib/net46/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net46/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.SfChart.WPF/19.1.0.66": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Licensing": "19.1.0.66"
+        },
+        "compile": {
+          "lib/net46/Syncfusion.SfChart.WPF.dll": {}
+        },
+        "runtime": {
+          "lib/net46/Syncfusion.SfChart.WPF.dll": {}
+        }
+      },
+      "CamadaDados/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/CamadaDados.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CamadaDados.dll": {}
+        }
+      },
+      "CamadaNegocio/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "CamadaDados": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CamadaNegocio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CamadaNegocio.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x86": {
+      "Syncfusion.Licensing/19.1.0.66": {
+        "type": "package",
+        "compile": {
+          "lib/net46/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net46/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.SfChart.WPF/19.1.0.66": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Licensing": "19.1.0.66"
+        },
+        "compile": {
+          "lib/net46/Syncfusion.SfChart.WPF.dll": {}
+        },
+        "runtime": {
+          "lib/net46/Syncfusion.SfChart.WPF.dll": {}
+        }
+      },
+      "CamadaDados/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/CamadaDados.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CamadaDados.dll": {}
+        }
+      },
+      "CamadaNegocio/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "CamadaDados": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CamadaNegocio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CamadaNegocio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Syncfusion.Licensing/19.1.0.66": {
+      "sha512": "tEmJwSDnfSfa7UizXkTDsf/fwxChpjWT4fblxz4fNLQFr4hkhzR8GZ0LQvK91JwbHCiwJQgb37zM1i7uQgZEhg==",
+      "type": "package",
+      "path": "syncfusion.licensing/19.1.0.66",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/MonoAndroid10.0/Syncfusion.Licensing.dll",
+        "lib/MonoAndroid90/Syncfusion.Licensing.dll",
+        "lib/Xamarin.Mac/Syncfusion.Licensing.dll",
+        "lib/Xamarin.iOS10/Syncfusion.Licensing.dll",
+        "lib/net20/Syncfusion.Licensing.dll",
+        "lib/net35/Syncfusion.Licensing.dll",
+        "lib/net40/Syncfusion.Licensing.dll",
+        "lib/net45/Syncfusion.Licensing.dll",
+        "lib/net451/Syncfusion.Licensing.dll",
+        "lib/net46/Syncfusion.Licensing.dll",
+        "lib/net5.0/Syncfusion.Licensing.dll",
+        "lib/netcoreapp3.1/Syncfusion.Licensing.dll",
+        "lib/netstandard1.0/Syncfusion.Licensing.dll",
+        "lib/netstandard1.2/Syncfusion.Licensing.dll",
+        "lib/netstandard1.4/Syncfusion.Licensing.dll",
+        "lib/netstandard2.0/Syncfusion.Licensing.dll",
+        "lib/portable-win+net45+wp80+win81+wpa81/Syncfusion.Licensing.dll",
+        "lib/uap10.0/Syncfusion.Licensing.dll",
+        "syncfusion.licensing.19.1.0.66.nupkg.sha512",
+        "syncfusion.licensing.nuspec"
+      ]
+    },
+    "Syncfusion.SfChart.WPF/19.1.0.66": {
+      "sha512": "DTxwgh5pIkEwwfFkxcw7M2pVKsbnJKOGgoZ+VZZoOJm82ow4gLhF6GZa6dTxPqxTEL1r2TypumxjteTEthhWpA==",
+      "type": "package",
+      "path": "syncfusion.sfchart.wpf/19.1.0.66",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/Design/Syncfusion.Design.Wpf.dll",
+        "lib/net40/Design/Syncfusion.SfChart.WPF.Expression.Design.dll",
+        "lib/net40/Design/Syncfusion.SfChart.WPF.VisualStudio.Design.dll",
+        "lib/net40/Syncfusion.SfChart.WPF.dll",
+        "lib/net40/Syncfusion.SfChart.WPF.xml",
+        "lib/net45/Design/Syncfusion.Design.Wpf.dll",
+        "lib/net45/Design/Syncfusion.SfChart.WPF.Expression.Design.dll",
+        "lib/net45/Design/Syncfusion.SfChart.WPF.VisualStudio.Design.dll",
+        "lib/net45/Syncfusion.SfChart.WPF.dll",
+        "lib/net45/Syncfusion.SfChart.WPF.xml",
+        "lib/net451/Design/Syncfusion.Design.Wpf.dll",
+        "lib/net451/Design/Syncfusion.SfChart.WPF.Expression.Design.dll",
+        "lib/net451/Design/Syncfusion.SfChart.WPF.VisualStudio.Design.dll",
+        "lib/net451/Syncfusion.SfChart.WPF.dll",
+        "lib/net451/Syncfusion.SfChart.WPF.xml",
+        "lib/net46/Design/Syncfusion.Design.Wpf.dll",
+        "lib/net46/Design/Syncfusion.SfChart.WPF.Expression.Design.dll",
+        "lib/net46/Design/Syncfusion.SfChart.WPF.VisualStudio.Design.dll",
+        "lib/net46/Syncfusion.SfChart.WPF.dll",
+        "lib/net46/Syncfusion.SfChart.WPF.xml",
+        "lib/net5.0-windows/Syncfusion.SfChart.WPF.dll",
+        "lib/net5.0-windows/Syncfusion.SfChart.WPF.xml",
+        "lib/netcoreapp3.1/Syncfusion.SfChart.WPF.dll",
+        "lib/netcoreapp3.1/Syncfusion.SfChart.WPF.xml",
+        "syncfusion.sfchart.wpf.19.1.0.66.nupkg.sha512",
+        "syncfusion.sfchart.wpf.nuspec",
+        "tools/VisualStudioToolsManifest.xml"
+      ]
+    },
+    "CamadaDados/1.0.0": {
+      "type": "project",
+      "path": "../CamadaDados/CamadaDados.csproj",
+      "msbuildProject": "../CamadaDados/CamadaDados.csproj"
+    },
+    "CamadaNegocio/1.0.0": {
+      "type": "project",
+      "path": "../CamadaNegocio/CamadaNegocio.csproj",
+      "msbuildProject": "../CamadaNegocio/CamadaNegocio.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "CamadaNegocio >= 1.0.0",
+      "Syncfusion.Licensing >= *",
+      "Syncfusion.SfChart.WPF >= *"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Diogo\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Diogo\\Desktop\\csharp\\SQLWithChart\\SistemaComissoes.csproj",
+      "projectName": "SistemaComissoes",
+      "projectPath": "C:\\Users\\Diogo\\Desktop\\csharp\\SQLWithChart\\SistemaComissoes.csproj",
+      "packagesPath": "C:\\Users\\Diogo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Diogo\\Desktop\\csharp\\SQLWithChart\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\Diogo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {
+            "C:\\Users\\Diogo\\Desktop\\csharp\\CamadaNegocio\\CamadaNegocio.csproj": {
+              "projectPath": "C:\\Users\\Diogo\\Desktop\\csharp\\CamadaNegocio\\CamadaNegocio.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "dependencies": {
+          "Syncfusion.Licensing": {
+            "target": "Package",
+            "version": "[*, )"
+          },
+          "Syncfusion.SfChart.WPF": {
+            "target": "Package",
+            "version": "[*, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

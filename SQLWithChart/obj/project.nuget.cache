@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SkOGEhH6RkMaV3+yHlbl+VLVE8qy6ZuUMxlALTejQ/jHENIy/cuwe4ZlutChXBgpcVTYJbpqEF314PmsQ30I5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diogo\\Desktop\\csharp\\SQLWithChart\\SistemaComissoes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diogo\\.nuget\\packages\\syncfusion.licensing\\19.1.0.66\\syncfusion.licensing.19.1.0.66.nupkg.sha512",
+    "C:\\Users\\Diogo\\.nuget\\packages\\syncfusion.sfchart.wpf\\19.1.0.66\\syncfusion.sfchart.wpf.19.1.0.66.nupkg.sha512"
+  ],
+  "logs": []
+}

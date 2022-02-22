@@ -1,0 +1,40 @@
+C:\Users\Diogo\Downloads\How-to-bind-the-SQL-Database-to-WPF-Charts-master\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\bin\Debug\SQLWithChart.exe.config
+C:\Users\Diogo\Downloads\How-to-bind-the-SQL-Database-to-WPF-Charts-master\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\bin\Debug\SQLWithChart.exe
+C:\Users\Diogo\Downloads\How-to-bind-the-SQL-Database-to-WPF-Charts-master\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\bin\Debug\SQLWithChart.pdb
+C:\Users\Diogo\Downloads\How-to-bind-the-SQL-Database-to-WPF-Charts-master\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Diogo\Downloads\How-to-bind-the-SQL-Database-to-WPF-Charts-master\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\bin\Debug\Syncfusion.SfChart.WPF.dll
+C:\Users\Diogo\Downloads\How-to-bind-the-SQL-Database-to-WPF-Charts-master\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\SQLWithChart.csprojAssemblyReference.cache
+C:\Users\Diogo\Downloads\How-to-bind-the-SQL-Database-to-WPF-Charts-master\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\MainWindow.g.cs
+C:\Users\Diogo\Downloads\How-to-bind-the-SQL-Database-to-WPF-Charts-master\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\App.g.cs
+C:\Users\Diogo\Downloads\How-to-bind-the-SQL-Database-to-WPF-Charts-master\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Diogo\Downloads\How-to-bind-the-SQL-Database-to-WPF-Charts-master\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\SQLWithChart_MarkupCompile.cache
+C:\Users\Diogo\Downloads\How-to-bind-the-SQL-Database-to-WPF-Charts-master\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\SQLWithChart_MarkupCompile.lref
+C:\Users\Diogo\Downloads\How-to-bind-the-SQL-Database-to-WPF-Charts-master\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\MainWindow.baml
+C:\Users\Diogo\Downloads\How-to-bind-the-SQL-Database-to-WPF-Charts-master\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\SQLWithChart.g.resources
+C:\Users\Diogo\Downloads\How-to-bind-the-SQL-Database-to-WPF-Charts-master\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\SQLWithChart.Properties.Resources.resources
+C:\Users\Diogo\Downloads\How-to-bind-the-SQL-Database-to-WPF-Charts-master\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\SQLWithChart.csproj.GenerateResource.cache
+C:\Users\Diogo\Downloads\How-to-bind-the-SQL-Database-to-WPF-Charts-master\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\SQLWithChart.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\Downloads\How-to-bind-the-SQL-Database-to-WPF-Charts-master\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\SQLWithChart.csproj.CopyComplete
+C:\Users\Diogo\Downloads\How-to-bind-the-SQL-Database-to-WPF-Charts-master\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\SQLWithChart.exe
+C:\Users\Diogo\Downloads\How-to-bind-the-SQL-Database-to-WPF-Charts-master\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\SQLWithChart.pdb
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\bin\Debug\SistemaComissoes.exe.config
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\bin\Debug\SistemaComissoes.exe
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\bin\Debug\SistemaComissoes.pdb
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\bin\Debug\Syncfusion.SfChart.WPF.dll
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\SQLWithChart.csprojAssemblyReference.cache
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\MainWindow.g.cs
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\MenuWindow.g.cs
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\App.g.cs
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\SistemaComissoes_MarkupCompile.cache
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\SistemaComissoes_MarkupCompile.lref
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\MainWindow.baml
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\MenuWindow.baml
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\SistemaComissoes.g.resources
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\SistemaComissoes.Properties.Resources.resources
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\SQLWithChart.csproj.GenerateResource.cache
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\SQLWithChart.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\SQLWithChart.csproj.CopyComplete
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\SistemaComissoes.exe
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\SistemaComissoes.pdb

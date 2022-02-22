@@ -1,0 +1,94 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Diogo\\Desktop\\csharp\\SQLWithChart\\SistemaComissoes.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Diogo\\Desktop\\csharp\\CamadaDados\\CamadaDados.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Diogo\\Desktop\\csharp\\CamadaDados\\CamadaDados.csproj",
+        "projectName": "CamadaDados",
+        "projectPath": "C:\\Users\\Diogo\\Desktop\\csharp\\CamadaDados\\CamadaDados.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Diogo\\Desktop\\csharp\\CamadaNegocio\\CamadaNegocio.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Diogo\\Desktop\\csharp\\CamadaNegocio\\CamadaNegocio.csproj",
+        "projectName": "CamadaNegocio",
+        "projectPath": "C:\\Users\\Diogo\\Desktop\\csharp\\CamadaNegocio\\CamadaNegocio.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Diogo\\Desktop\\csharp\\CamadaDados\\CamadaDados.csproj": {
+                "projectPath": "C:\\Users\\Diogo\\Desktop\\csharp\\CamadaDados\\CamadaDados.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\Diogo\\Desktop\\csharp\\SQLWithChart\\SistemaComissoes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Diogo\\Desktop\\csharp\\SQLWithChart\\SistemaComissoes.csproj",
+        "projectName": "SistemaComissoes",
+        "projectPath": "C:\\Users\\Diogo\\Desktop\\csharp\\SQLWithChart\\SistemaComissoes.csproj",
+        "packagesPath": "C:\\Users\\Diogo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Diogo\\Desktop\\csharp\\SQLWithChart\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Diogo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Diogo\\Desktop\\csharp\\CamadaNegocio\\CamadaNegocio.csproj": {
+                "projectPath": "C:\\Users\\Diogo\\Desktop\\csharp\\CamadaNegocio\\CamadaNegocio.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Syncfusion.Licensing": {
+              "target": "Package",
+              "version": "[*, )"
+            },
+            "Syncfusion.SfChart.WPF": {
+              "target": "Package",
+              "version": "[*, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

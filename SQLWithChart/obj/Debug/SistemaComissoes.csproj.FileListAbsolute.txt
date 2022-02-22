@@ -1,0 +1,50 @@
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\bin\Debug\SistemaComissoes.exe.config
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\bin\Debug\SistemaComissoes.exe
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\bin\Debug\SistemaComissoes.pdb
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\bin\Debug\Syncfusion.SfChart.WPF.dll
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\bin\Debug\CamadaNegocio.dll
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\bin\Debug\CamadaNegocio.pdb
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\SistemaComissoes.csprojAssemblyReference.cache
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\MainWindow.g.cs
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\MenuWindow.g.cs
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\App.g.cs
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\SistemaComissoes_MarkupCompile.cache
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\SistemaComissoes_MarkupCompile.lref
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\MainWindow.baml
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\MenuWindow.baml
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\SistemaComissoes.g.resources
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\SistemaComissoes.Properties.Resources.resources
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\SistemaComissoes.csproj.GenerateResource.cache
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\SistemaComissoes.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\SistemaComissoes.csproj.CopyComplete
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\SistemaComissoes.exe
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\obj\Debug\SistemaComissoes.pdb
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\bin\Debug\CamadaDados.dll
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\SQLWithChart\bin\Debug\CamadaDados.pdb
+C:\Users\Diogo\Desktop\csharp\SQLWithChart\bin\Debug\SistemaComissoes.exe.config
+C:\Users\Diogo\Desktop\csharp\SQLWithChart\bin\Debug\SistemaComissoes.exe
+C:\Users\Diogo\Desktop\csharp\SQLWithChart\bin\Debug\SistemaComissoes.pdb
+C:\Users\Diogo\Desktop\csharp\SQLWithChart\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\Diogo\Desktop\csharp\SQLWithChart\bin\Debug\Syncfusion.SfChart.WPF.dll
+C:\Users\Diogo\Desktop\csharp\SQLWithChart\bin\Debug\CamadaNegocio.dll
+C:\Users\Diogo\Desktop\csharp\SQLWithChart\bin\Debug\CamadaDados.dll
+C:\Users\Diogo\Desktop\csharp\SQLWithChart\bin\Debug\CamadaNegocio.pdb
+C:\Users\Diogo\Desktop\csharp\SQLWithChart\bin\Debug\CamadaDados.pdb
+C:\Users\Diogo\Desktop\csharp\SQLWithChart\obj\Debug\SistemaComissoes.csprojAssemblyReference.cache
+C:\Users\Diogo\Desktop\csharp\SQLWithChart\obj\Debug\MainWindow.g.cs
+C:\Users\Diogo\Desktop\csharp\SQLWithChart\obj\Debug\MenuWindow.g.cs
+C:\Users\Diogo\Desktop\csharp\SQLWithChart\obj\Debug\App.g.cs
+C:\Users\Diogo\Desktop\csharp\SQLWithChart\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Diogo\Desktop\csharp\SQLWithChart\obj\Debug\SistemaComissoes_MarkupCompile.cache
+C:\Users\Diogo\Desktop\csharp\SQLWithChart\obj\Debug\SistemaComissoes_MarkupCompile.lref
+C:\Users\Diogo\Desktop\csharp\SQLWithChart\obj\Debug\MainWindow.baml
+C:\Users\Diogo\Desktop\csharp\SQLWithChart\obj\Debug\MenuWindow.baml
+C:\Users\Diogo\Desktop\csharp\SQLWithChart\obj\Debug\SistemaComissoes.g.resources
+C:\Users\Diogo\Desktop\csharp\SQLWithChart\obj\Debug\SistemaComissoes.Properties.Resources.resources
+C:\Users\Diogo\Desktop\csharp\SQLWithChart\obj\Debug\SistemaComissoes.csproj.GenerateResource.cache
+C:\Users\Diogo\Desktop\csharp\SQLWithChart\obj\Debug\SistemaComissoes.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\Desktop\csharp\SQLWithChart\obj\Debug\SistemaComissoes.csproj.CopyComplete
+C:\Users\Diogo\Desktop\csharp\SQLWithChart\obj\Debug\SistemaComissoes.exe
+C:\Users\Diogo\Desktop\csharp\SQLWithChart\obj\Debug\SistemaComissoes.pdb

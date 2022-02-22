@@ -1,0 +1,82 @@
+﻿<Window x:Class="SQLWithChart.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CamadaNegocio;assembly=CamadaNegocio"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        xmlns:chart="http://schemas.syncfusion.com/wpf" xmlns:local1="clr-namespace:SQLWithChart"
+        Title="MainWindow" Height="600" Width="800">
+
+    <Window.Resources>
+        <ObjectDataProvider x:Key="dataFromEnum" MethodName="GetValues"
+                        ObjectType="{x:Type sys:Enum}">
+            <ObjectDataProvider.MethodParameters>
+                <x:Type TypeName="local:EnumComissao"/>
+            </ObjectDataProvider.MethodParameters>
+        </ObjectDataProvider>
+    </Window.Resources>
+
+    <Window.CommandBindings>
+        <CommandBinding x:Name="GravarCommand" Command="ApplicationCommands.Save" Executed="GravarCommand_Executed"/>
+    </Window.CommandBindings>
+
+    <Grid Background="#0e0e10">
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="180"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Grid.DataContext>
+            <local1:ViewModel/>
+        </Grid.DataContext>
+
+
+
+        <chart:SfChart Margin="10" Grid.Row="2" Background="White">
+
+            <chart:SfChart.PrimaryAxis>
+                <chart:CategoryAxis  />
+            </chart:SfChart.PrimaryAxis>
+
+            <chart:SfChart.SecondaryAxis>
+                <chart:NumericalAxis RangePadding="Normal"/>
+            </chart:SfChart.SecondaryAxis>
+
+            <chart:ColumnSeries ItemsSource="{Binding DataTable}"
+                                 XBindingPath="Nome"
+                                 YBindingPath="Total"
+                               
+                                />
+        </chart:SfChart>
+
+
+        <Border HorizontalAlignment="Left" Height="160" Margin="20,20,20,20" VerticalAlignment="Top" Width="366" Background="#18181b"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="96,94,0,0" TextWrapping="Wrap" Text="Nome do funcionario" VerticalAlignment="Top" Width="160" RenderTransformOrigin="3.548,0.435" BorderBrush="#FF464649" IsReadOnly="True" Background="#FF464649" Foreground="#FFB4B4B5"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="61,94,0,0" TextWrapping="Wrap" Text="ID" VerticalAlignment="Top" Width="30" Background="#FF464649" Foreground="#FFB4B4B5" BorderBrush="#FF464649" IsReadOnly="True"/>
+        <Button Content="Escolher" Grid.Column="0" HorizontalAlignment="Left" Margin="272,94,0,0" VerticalAlignment="Top" Width="74" Height="23" UseLayoutRounding="False" Foreground="White" Background="#FF9147FF" BorderBrush="#FF9147FF"/>
+        <Label Content="Funcionario" HorizontalAlignment="Left" Margin="61,46,0,0" VerticalAlignment="Top" FontFamily="Yu Gothic UI" FontSize="18" Background="{x:Null}" Foreground="White"/>
+
+        <Border HorizontalAlignment="Left" Height="160" Margin="20,20,20,20" VerticalAlignment="Top" Width="376" Background="#18181b" Grid.Column="1"/>
+
+        <Label Grid.Column="1" Content="Valor" HorizontalAlignment="Left" Margin="69,56,0,0" VerticalAlignment="Top" FontFamily="Yu Gothic UI" FontSize="18" Background="{x:Null}" Foreground="White"/>
+        <ComboBox Grid.Column="1" HorizontalAlignment="Left" Margin="177,115,0,0" VerticalAlignment="Top" Width="160" ItemsSource="{Binding Source={StaticResource dataFromEnum}}"/>
+        <TextBox Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="177,66,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="42"/>
+
+        <Label Grid.Column="1" Content="Comissão" HorizontalAlignment="Left" Margin="69,113,0,0" VerticalAlignment="Top" FontFamily="Yu Gothic UI" FontSize="18" Background="{x:Null}" Foreground="White" RenderTransformOrigin="0.379,0.529"/>
+        <Button Content="Gravar" Grid.Column="1" HorizontalAlignment="Right" Margin="0,0,20,0" VerticalAlignment="Top" Width="74" Height="23" UseLayoutRounding="False" Foreground="White" Background="#FF9147FF" BorderBrush="#FF9147FF" Grid.Row="1"/>
+
+        <Button x:Name="gravarButton" Content="Gravar" Width="100" Height="40" Margin="177,5,119,344"
+                    Command="Save" Grid.Column="1" Grid.Row="1" Grid.RowSpan="2"></Button>
+
+    </Grid>
+
+
+</Window>

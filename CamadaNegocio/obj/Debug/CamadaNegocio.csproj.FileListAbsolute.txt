@@ -1,0 +1,11 @@
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\CamadaNegocio\bin\Debug\CamadaNegocio.dll
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\CamadaNegocio\bin\Debug\CamadaNegocio.pdb
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\CamadaNegocio\bin\Debug\CamadaDados.dll
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\CamadaNegocio\bin\Debug\CamadaDados.pdb
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\CamadaNegocio\obj\Debug\CamadaNegocio.csprojAssemblyReference.cache
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\CamadaNegocio\obj\Debug\CamadaNegocio.Properties.Resources.resources
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\CamadaNegocio\obj\Debug\CamadaNegocio.csproj.GenerateResource.cache
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\CamadaNegocio\obj\Debug\CamadaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\CamadaNegocio\obj\Debug\CamadaNegocio.csproj.CopyComplete
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\CamadaNegocio\obj\Debug\CamadaNegocio.dll
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\CamadaNegocio\obj\Debug\CamadaNegocio.pdb

@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Diogo\\Desktop\\sql - Cópia\\How-to-bind-the-SQL-Database-to-WPF-Charts-master\\SQLWithChart\\SQLWithChart.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Diogo\\Desktop\\sql - Cópia\\How-to-bind-the-SQL-Database-to-WPF-Charts-master\\SQLWithChart\\SQLWithChart.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Diogo\\Desktop\\sql - Cópia\\How-to-bind-the-SQL-Database-to-WPF-Charts-master\\SQLWithChart\\SQLWithChart.csproj",
+        "projectName": "SQLWithChart",
+        "projectPath": "C:\\Users\\Diogo\\Desktop\\sql - Cópia\\How-to-bind-the-SQL-Database-to-WPF-Charts-master\\SQLWithChart\\SQLWithChart.csproj",
+        "packagesPath": "C:\\Users\\Diogo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Diogo\\Desktop\\sql - Cópia\\How-to-bind-the-SQL-Database-to-WPF-Charts-master\\SQLWithChart\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Diogo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "dependencies": {
+            "Syncfusion.Licensing": {
+              "target": "Package",
+              "version": "[*, )"
+            },
+            "Syncfusion.SfChart.WPF": {
+              "target": "Package",
+              "version": "[*, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

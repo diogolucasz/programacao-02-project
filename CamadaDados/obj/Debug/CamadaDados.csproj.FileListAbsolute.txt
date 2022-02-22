@@ -1,0 +1,7 @@
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\CamadaDados\bin\Debug\CamadaDados.dll
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\CamadaDados\bin\Debug\CamadaDados.pdb
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\CamadaDados\obj\Debug\CamadaDados.Properties.Resources.resources
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\CamadaDados\obj\Debug\CamadaDados.csproj.GenerateResource.cache
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\CamadaDados\obj\Debug\CamadaDados.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\CamadaDados\obj\Debug\CamadaDados.dll
+C:\Users\Diogo\Desktop\sql - Cópia\How-to-bind-the-SQL-Database-to-WPF-Charts-master\CamadaDados\obj\Debug\CamadaDados.pdb
